@@ -1,5 +1,5 @@
 # Titanium-Appcelerator-GeoFence-Module-iOS
-Titanium Appcelerator GeoFence Module for iOS 64-bit Updated
+Titanium Appcelerator GeoFence Module for iOS 64-bit Updated,   Tested on simulator, iphone device and published on app store project.
 
 Download zip and include module into your project. 
 

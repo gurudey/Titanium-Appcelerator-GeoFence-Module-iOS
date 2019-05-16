@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.6.9
+apiversion: 2
+architectures: armv7 arm64 i386 x86_64
+description: ci-geofencing
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2018 by Your Company
+
+# these should not be edited
+name: ci-geofencing
+moduleid: ci.geofencing
+guid: 0ae586d0-9f56-4c54-b874-55403c59fa78
+platform: iphone
+minsdk: 7.0.0.GA
